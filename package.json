@@ -1,0 +1,20 @@
+{
+  "name": "unit-integration-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "setup.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.21.1"
+  },
+  "devDependencies": {
+    "@testomatio/reporter": "^2.25.0",
+    "jest": "^30.5.2"
+  }
+}
